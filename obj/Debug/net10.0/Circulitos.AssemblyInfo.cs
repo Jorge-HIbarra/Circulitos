@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Circulitos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd64d229bf90dd26aee062248244c16731a4a964")]
 [assembly: System.Reflection.AssemblyProductAttribute("Circulitos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Circulitos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
